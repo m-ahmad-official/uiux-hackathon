@@ -3,7 +3,7 @@ export default function Carousel2() {
     <div className="bg-[#23856D] flex items-center justify-center">
       <div className="sm:w-[1036px] h-[1300px] sm:h-[711px] pt-[200px] sm:py-[112px] flex justify-between gap-[80px]">
         <div className="flex max-sm:flex-col max-sm:items-center justify-between sm:w-[1049px]">
-          <div className="flex flex-col max-sm:text-center max-sm:items-center gap-[30px] h-[432px] w-[350px] pt-[60px]">
+          <div className="flex flex-col max-sm:text-center max-sm:items-center gap-[30px] h-[432px] sm:w-[350px] pt-[60px]">
             <h5 className="text-[20px] font-normal text-white">SUMMER 2020</h5>
             <h1 className="text-[40px] sm:text-[58px] font-bold text-white">
               Vita Classic Product

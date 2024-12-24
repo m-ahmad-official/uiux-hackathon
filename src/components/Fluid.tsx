@@ -3,7 +3,7 @@ export default function Fluid() {
     <div className="flex justify-center items-center">
       <div className="max-sm:h-[1000px] flex max-sm:flex-col-reverse items-center gap-7">
         <div className="fluid"></div>
-        <div className="flex flex-col max-sm:items-center max-sm:gap-[30px] justify-between max-sm:text-center sm:h-[326px] w-[380px]">
+        <div className="flex flex-col max-sm:items-center max-sm:gap-[30px] justify-between max-sm:text-center sm:h-[326px] sm:w-[380px]">
           <h5 className="text-[16px] font-bold text-[#BDBDBD]">SUMMER 2020</h5>
           <h1 className="text-[40px] font-bold text-[#252B42] max-sm:w-[280px]">
             Part of the Neural Universe

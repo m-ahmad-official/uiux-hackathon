@@ -253,7 +253,7 @@ export default function Product() {
       </div>
       <div className="flex justify-center bg-[#FAFAFA]">
         <div className="sm:pb-12 max-sm:py-12 flex max-sm:flex-col gap-[30px]">
-          <div className="flex flex-col sm:gap-4 gap-11">
+          <div className="flex flex-col max-sm:items-center sm:gap-4 gap-11">
             <div className="singleproduct1 flex items-center justify-center">
               <div className="flex justify-between w-[435px] max-sm:px-9 pt-3 sm:pt-24">
                 <Image
@@ -780,14 +780,14 @@ export default function Product() {
                 <h5 className="text-[16px] font-bold text-[#252B42]">
                   Get In Touch
                 </h5>
-                <div className="h-[58px] flex flex-col gap-[5px]">
+                <div className="flex flex-col gap-[5px]">
                   <div className="flex h-[58px]">
                     <input
                       type="email"
-                      className="rounded-l-[5px] font-medium pl-5 border-[1px] border-[#E6E6E6] bg-[#F9F9F9]"
+                      className="rounded-l-[5px] font-medium pl-5 border-[1px] border-[#E6E6E6] bg-[#F9F9F9] max-sm:w-[65%]"
                       placeholder="Your Email"
                     />
-                    <button className="h-[58px] px-4 bg-[#23a6f0] text-white text-[14px] font-medium rounded-r-[5px]">
+                    <button className="px-4 bg-[#23a6f0] text-white text-[14px] font-medium rounded-r-[5px] w-[30%] max-sm:flex max-sm:justify-center max-sm:items-center">
                       Subscribe
                     </button>
                   </div>

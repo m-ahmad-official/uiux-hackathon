@@ -544,10 +544,9 @@
   }
 
   .carousel2 {
-    width: 410px;
-    height: 530px;
+    width: 320px;
+    height: 450px;
     background-image: url("/images/carousel2.png");
-    background-size: cover;
   }
 
   .fluid {
@@ -583,8 +582,8 @@
   }
 
   .shoppingGirl {
-    width: 387px;
-    height: 440px;
+    width: 337px;
+    height: 390px;
     background-image: url("/images/shoppingGirl2.png");
     background-size: cover;
     background-position: center;
@@ -600,41 +599,41 @@
   }
 
   .contactHeader {
-    width: 387px;
-    height: 440px;
+    width: 340px;
+    height: 400px;
     background-image: url("/images/contactHeader2.png");
     background-size: cover;
   }
 
   .team10 {
-    width: 414px;
+    width: 360px;
     height: 530px;
     background-image: url("/images/team-10.png");
   }
 
   .team11 {
-    width: 204px;
-    height: 260px;
+    width: 176px;
+    height: 250px;
     background-image: url("/images/team-11.png");
     background-size: cover;
     background-position: center;
   }
 
   .team12 {
-    width: 204px;
-    height: 260px;
+    width: 176px;
+    height: 250px;
     background-image: url("/images/team-12.png");
   }
 
   .team13 {
-    width: 204px;
-    height: 260px;
+    width: 176px;
+    height: 250px;
     background-image: url("/images/team-13.png");
   }
 
   .team14 {
-    width: 204px;
-    height: 260px;
+    width: 176px;
+    height: 250px;
     background-image: url("/images/team-14.png");
   }
 
@@ -716,8 +715,8 @@
   }
 
   .singleproduct1 {
-    width: 348px;
-    height: 277px;
+    width: 328px;
+    height: 257px;
     background-image: url("/images/singleproduct1.jpg");
     background-size: cover;
     background-position: center;
